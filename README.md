@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/shehzadshaikh/OpensourceJunkie/_apis/build/status/opensourcejunkie101.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/shehzadshaikh/OpensourceJunkie/_build/latest?definitionId=9&branchName=master)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
